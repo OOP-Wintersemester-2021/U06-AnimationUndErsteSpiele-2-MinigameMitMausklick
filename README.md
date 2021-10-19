@@ -1,4 +1,4 @@
-# U06-2 | Minigame mit Mausklick
+# U19 | Minigame mit Mausklick
 
 Erstellen Sie ein kleines Reaktionsspiel. Ziel des Spiels ist es, einen
 Ball, der sich innerhalb der Grenzen des Fensters linear bewegt, mit der

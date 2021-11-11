@@ -9,4 +9,4 @@ In der `GraphicsApp`-Anwendung `MiniGame` müssen Sie den Spielgegenstand, einen
 
 In der Klasse `ClickBall` sind einige Methoden bereits vorgegeben, die Ihnen aus der RandomBouncingBalls-Übung bekannt sein dürften. Zusätzlich implementieren sollen Sie den Richtungswechsel, das Stoppen und die Abfrage, ob der Ball vom Klick getroffen wurde.
 
-![Mini Game](docs/minigame.png){ width=25% }
+![Mini Game](docs/minigame.png)
